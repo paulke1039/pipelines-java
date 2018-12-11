@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/paulke/pipeline-java/_apis/build/status/pipeline-java-CI)](https://dev.azure.com/paulke/pipeline-java/_build/latest?definitionId=2):
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
